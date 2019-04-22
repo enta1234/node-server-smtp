@@ -1,0 +1,19 @@
+{
+  "name": "server-smtp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enta1234/node-server-smtp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enta1234/node-server-smtp/issues"
+  },
+  "homepage": "https://github.com/enta1234/node-server-smtp#readme"
+}
