@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/enta1234/node-server-smtp/issues"
   },
-  "homepage": "https://github.com/enta1234/node-server-smtp#readme"
+  "homepage": "https://github.com/enta1234/node-server-smtp#readme",
+  "dependencies": {
+    "smtp-server": "^3.5.0"
+  }
 }
